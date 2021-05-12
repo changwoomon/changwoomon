@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### (੭•̀ᴗ•̀)੭🔥 changwoomon
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changwoomon)](https://github-readme-stats.vercel.app/api?username=changwoomon)
+[![changwoomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=changwoomon&show_icons=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=changwoomon&show_icons=true&hide_border=true)
 
 <!--
 
