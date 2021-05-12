@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 
 ### (੭•̀ᴗ•̀)੭🔥 changwoomon
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changwoomon)](https://github-readme-stats.vercel.app/api?username=changwoomon)
+
+<!--
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=changwoomon)](https://solved.ac/changwoomon)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=changwoomon)](https://solved.ac/changwoomon)
+
 <details markdown="1" open>
 <summary><strong>👩‍💻 Technologies & Tools</strong></summary>
 
@@ -28,13 +36,8 @@ Here are some ideas to get you started:
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=changwoomon)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=changw98)](https://solved.ac/qjsmdk1346)
-
-</details>
 
 <details markdown="1">
 <summary><strong>:octocat: GitHub Stats</strong></summary>
