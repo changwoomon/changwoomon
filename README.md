@@ -15,15 +15,9 @@ Here are some ideas to get you started:
 
 ### (੭•̀ᴗ•̀)੭🔥 changwoomon
 
-[![changwoomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=changwoomon&show_icons=true)](https://github-readme-stats.vercel.app/api?username=changwoomon&show_icons=true)
-
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=changwoomon&show_icons=true&count_private=true&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=changwoomon&hide=css,java,html,asp&langs_count=4">
-</p>
-
-<p aline = "center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=changwoomon">
 </p>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=changwoomon)](https://solved.ac/changwoomon)
