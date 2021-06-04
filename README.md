@@ -13,12 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### (੭•̀ᴗ•̀)੭🔥 changwoomon
+## (੭•̀ᴗ•̀)੭🔥 changwoomon
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=changwoomon&show_icons=true&count_private=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=changwoomon&hide=css,java,html,asp&langs_count=4">
-</p>
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+<img src = "https://github-readme-stats.vercel.app/api?username=changwoomon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changwoomon&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=changwoomon)](https://solved.ac/changwoomon)
 
