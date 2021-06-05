@@ -1,18 +1,3 @@
-<!--
-**changwoomon/changwoomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## (੭•̀ᴗ•̀)੭🔥 changwoomon
 
 <details markdown="1" open>
@@ -28,20 +13,12 @@ Here are some ideas to get you started:
 </details>
 
 
-
 <!--
 <table><tr><td valign="top" width="50%">
 <img src = "https://github-readme-stats.vercel.app/api?username=changwoomon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changwoomon&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table>
-
-
-
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=changwoomon)](https://solved.ac/changwoomon)
-
-[![changwoomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=changwoomon&show_icons=true&hide_border=true)](https://github-readme-stats.vercel.app/api?username=changwoomon&show_icons=true&hide_border=true)
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=changwoomon)](https://solved.ac/changwoomon)
@@ -61,19 +38,19 @@ Here are some ideas to get you started:
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
+-->
 
+<!--
+**changwoomon/changwoomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
-<details markdown="1">
-<summary><strong>:octocat: GitHub Stats</strong></summary>
-
-<br/>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=changwoomon&show_icons=true&theme=radical&count_private=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=changwoomon&hide=css,java,html,asp&theme=radical&langs_count=4">
-</p>
-
-</details>
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
